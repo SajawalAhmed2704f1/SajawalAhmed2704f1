@@ -9,7 +9,7 @@ Passionate about building scalable web applications, solving real-world problems
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;ASP.NET+Core+Developer;PHP+Developer;SQL+Server+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;ASP.NET+Core+Developer;PHP+Developer;SQL+Server;Always+Learning+New+Technologies" />
 </p>
 
 ---
