@@ -117,7 +117,7 @@ PHP • MySQL • HTML • Tailwind CSS • JavaScript • jQuery
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SajawalAhmed2704f1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="![Trophy](https://github-profile-trophy.vercel.app/?username=SajawalAhmed2704f1&theme=tokyonight&no-frame=true&row=1&column=6)"/>
 
 </p>
 
