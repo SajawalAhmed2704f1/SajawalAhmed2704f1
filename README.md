@@ -101,13 +101,13 @@ PHP • MySQL • HTML • Tailwind CSS • JavaScript • jQuery
 
 <img height="170" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajawalAhmed2704f1&show_icons=true&theme=tokyonight)"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SajawalAhmed2704f1&theme=tokyonight&hide_border=true"/>
+<img height="170" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalAhmed2704f1&layout=compact&theme=tokyonight)"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalAhmed2704f1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="![GitHub Streak](https://streak-stats.demolab.com?user=SajawalAhmed2704f1&theme=tokyonight)"/>
 
 </p>
 
