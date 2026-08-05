@@ -95,39 +95,6 @@ PHP • MySQL • HTML • Tailwind CSS • JavaScript • jQuery
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SajawalAhmed2704f1&show_icons=true&theme=tokyonight)"/>
-
-<img height="170" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SajawalAhmed2704f1&layout=compact&theme=tokyonight)"/>
-
-</p>
-
-<p align="center">
-
-<img src="![GitHub Streak](https://streak-stats.demolab.com?user=SajawalAhmed2704f1&theme=tokyonight)"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="![Trophy](https://github-profile-trophy.vercel.app/?username=SajawalAhmed2704f1&theme=tokyonight&no-frame=true&row=1&column=6)"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-[![Sajawal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SajawalAhmed2704f1&theme=tokyo-night)](https://github.com/SajawalAhmed2704f1)
-
----
 
 # 🌐 Connect with Me
 
